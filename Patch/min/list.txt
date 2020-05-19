@@ -1,0 +1,2 @@
+VER: 3.0
+slax/modules/03-checkra1n.sb|93229056|19.05.2020 03:22:00|e75b5a84624619f404ffa7bc73791d7e
